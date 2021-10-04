@@ -19,8 +19,6 @@ struct Name
 
 struct Student
 {
-     // string name = input_name.first_name + " " +
-     //   input_name.middleinitial + " " + input_name.last_name;
      int id;
      string email;
      int ssn;
