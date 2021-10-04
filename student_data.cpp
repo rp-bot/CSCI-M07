@@ -1,9 +1,8 @@
 /*******************************************************************************
-*  Program name: movie_data.cpp
+*  Program name: student_data.cpp
 *  Author: ...
 *  Date last updated: 10/02/2021
-*  Purpose: takes movie data and uses a structure and a method to out put the 
-            data.
+*  Purpose: takes name and data of student and outputs the data.
 *******************************************************************************/
 
 #include <iostream>
